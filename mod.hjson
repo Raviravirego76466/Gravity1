@@ -1,9 +1,9 @@
 {
-    "displayName": "Mod Template",
+    "displayName": "Gravtity",
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration.",
     "version": "v1.0",
     "minGameVersion": "146",
-    "author": "You",
+    "author": "Raviravirego",
     "java": true,
-    "main": "template.ModTemplate"
+    "main": "gravtiy"
 }
