@@ -1,4 +1,4 @@
-package tekton.content;
+package gravity.content;
 
 import arc.graphics.Color;
 
