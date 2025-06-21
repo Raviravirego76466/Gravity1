@@ -7,7 +7,7 @@ import arc.struct.IntSet;
 import arc.util.Nullable;
 import mindustry.Vars;
 import mindustry.gen.Building;
-import tekton.type.gravity.GravityConductor.GravityConductorBuild;
+import gravity.types.GravityConductor.GravityConductorBuild;
 
 public interface GravityBlock {
 	float gravity();
